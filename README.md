@@ -64,5 +64,5 @@ The dataset used contains 200 entries with the following features:
 ## Author
 
 Suman Banerjee
-[Specify License if any]
+
 
